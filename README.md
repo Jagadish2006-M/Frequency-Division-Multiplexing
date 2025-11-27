@@ -108,9 +108,19 @@ subplot(3,2,6); plot(t,d6); title("Demod 6");
 ```
 
 ## OUTPUT WAVEFORM
+<img width="1919" height="1199" alt="Screenshot 2025-11-27 111236" src="https://github.com/user-attachments/assets/41e7af76-aad4-4513-aa04-650e84109bd8" />
+<img width="1919" height="1199" alt="Screenshot 2025-11-27 111259" src="https://github.com/user-attachments/assets/cb3ea4af-85c5-4328-b465-f12785d5eaa9" />
+<img width="1919" height="1199" alt="Screenshot 2025-11-27 111312" src="https://github.com/user-attachments/assets/db23155b-762a-438d-91c4-1122430fd06e" />
+
+
 
 
 ## CALCULATION
+![FDM 1](https://github.com/user-attachments/assets/559515d4-70ee-44d7-a9dd-7c6c733128af)
+
+![FDM 2](https://github.com/user-attachments/assets/36dbbe6c-733d-40aa-be55-9f1dc95440b4)
+
+
 
 
 ## RESULT
